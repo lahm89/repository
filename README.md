@@ -39,3 +39,7 @@
 ## 가지 병합
 - 다른 가지의 변경 사항을 현재 가지로 반영할 경우
 - git merge 브랜치명 
+
+## 저장소 복제
+- git clone 원저장소URL
+- git clone 원저장소Path
